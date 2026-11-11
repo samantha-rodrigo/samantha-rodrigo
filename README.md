@@ -29,7 +29,7 @@ Tutoring NGO · Founded during the pandemic Connected Peruvian public school kid
 ## 🏆 Recent
 
 Won Lovable hackathon at the Berkeley Haas Tech & AI Summit (Nov 2026) with Credit Card Game Idea.
-Won Lovable hackathon at Hack the Friction: Bear sprint x Lovable with Calendar aggregator solution for time management in student pain point
+<p> Won Lovable hackathon at Hack the Friction: Bear sprint x Lovable with Calendar aggregator solution for time management in student pain point
 
 
 ## 🧪 How I work
