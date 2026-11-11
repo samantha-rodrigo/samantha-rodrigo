@@ -1,4 +1,4 @@
-# Hola, I'm Samantha 👋
+# Hola! I'm Samantha 👋
 
 I build products that unlock opportunity for underserved communities. Growth PM · Berkeley Haas MBA '28 · From Peru to Berkeley
 
